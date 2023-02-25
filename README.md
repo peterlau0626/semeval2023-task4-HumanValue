@@ -1,8 +1,8 @@
 # semeval2023-task4-HumanValue
-## requirements:
-### scikit-learn>=1.1.2
-### pandas>=1.5.1
-### python>=3.8.8
-### torch>=1.12.1+cu113
-### datasets>=1.10.2
-### transformers>=4.9.1
+### requirements:
+#### scikit-learn>=1.1.2
+#### pandas>=1.5.1
+#### python>=3.8.8
+#### torch>=1.12.1+cu113
+#### datasets>=1.10.2
+#### transformers>=4.9.1
