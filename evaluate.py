@@ -2,9 +2,9 @@
 # **********************************************************
 #
 # * Author        : liupingan
-# * Email         : liupingan-jk@360shuke.com
+# * Email         : lpanibupt@gmail.com
 # * Create time   : 2022-09-26 13:15
-# * Filename      : Evaluate.py
+# * Filename      : evaluate.py
 # * Description   : 
 #
 # **********************************************************

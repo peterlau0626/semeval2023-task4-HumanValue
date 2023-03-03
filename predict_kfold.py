@@ -2,9 +2,9 @@
 # **********************************************************
 #
 # * Author        : liupingan
-# * Email         : liupingan-jk@360shuke.com
+# * Email         : lpanibupt@gmail.com
 # * Create time   : 2022-09-30 10:53
-# * Filename      : predict.py
+# * Filename      : predict_kfold.py
 # * Description   : 
 #
 # **********************************************************
